@@ -2,11 +2,10 @@
 # Universidad Pontificia Bolivariana
 
 
-** DOCENTE: Miguel Ortiz
+DOCENTE: Miguel Ortiz
 
-** ESTUDIANTE: Alvaro Jesus Negrette Buelvas
+ESTUDIANTE: Alvaro Jesus Negrette Buelvas
 
-** E-MAIL: alvaronegreteb@gmail.com
-** alvaro.negrette@upb.edu.co
+E-MAIL: alvaronegreteb@gmail.com
 
-FECHA:21/07/2025
+
