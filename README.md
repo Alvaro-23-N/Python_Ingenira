@@ -1,2 +1,6 @@
-# Python_Ingenira
-repositorio para las actividades del curso de python para ingenira
+# Python Aplicado a Ingenieria
+##EVALUACION 1
+DOCENTE:
+ESTUDIANTE:
+E-MAIL:
+FECHA:21/07/
